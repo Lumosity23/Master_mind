@@ -16,7 +16,7 @@
 #include <Servo.h> //inclusion de la bibliothèque servomoteur
 
 //pin du servomoteur
-int pinServo = 12;
+int pinServo = 12; //ceci est un commentaire
 
 
 
