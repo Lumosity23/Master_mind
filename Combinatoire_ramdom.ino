@@ -16,7 +16,7 @@
 #include <Servo.h> //inclusion de la bibliothèque servomoteur
 
 //pin du servomoteur
-int pinServo = 12; //ceci est un commentaire
+int pinServo = 12; // a verifier la pin
 
 
 
@@ -66,7 +66,8 @@ int numLed = 0;
 int numCouleur = 0;
 
 void setup() {
-
+ 
+  
   
   pinMode(ledW1, OUTPUT);
   pinMode(ledW2, OUTPUT);
